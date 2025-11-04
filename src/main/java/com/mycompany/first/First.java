@@ -10,5 +10,6 @@ public class First {
         Scanner obj=new Scanner(System.in);
         String x=obj.nextLine();
         System.out.println(x);
+        System.out.println("world");
     }
 }
